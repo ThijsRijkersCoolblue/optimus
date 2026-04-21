@@ -1,3 +1,3 @@
-module github.com/user/optimus
+module optimus
 
 go 1.21
