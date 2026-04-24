@@ -1,4 +1,4 @@
-#Optimus
+# Optimus
 
 Native terminal emulator built in Go with Gio.
 Multi-tab desktop terminal with PTY-backed sessions, ANSI parsing, and mouse/clipboard integration.
